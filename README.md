@@ -13,10 +13,10 @@ This project aims to develop a machine learning solution to address the critical
 
 ## 2. Dataset Details
 
-- [cite_start]**Dataset Name:** Student Depression and Mental Health Dataset [cite: 1084]
-- [cite_start]**Source:** Kaggle [cite: 1085]
+- **Dataset Name:** Student Depression and Mental Health Dataset 
+- **Source:** Kaggle 
 - **Link:** [https://www.kaggle.com/datasets/hopesb/student-depression-dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)
-- [cite_start]**Description:** This is a tabular dataset containing over 3,500 records and approximately 20 features. [cite: 1093, 1096] [cite_start]The data includes a rich mix of academic indicators (e.g., CGPA), lifestyle factors (e.g., Sleep Duration), and psychological metrics (e.g., Financial Stress). [cite: 1143, 1145] [cite_start]The target variable is a binary indicator, `Depression`, making this a supervised classification task. [cite: 1191, 1231]
+- **Description:** This is a tabular dataset containing over 3,500 records and approximately 20 features. The data includes a rich mix of academic indicators (e.g., CGPA), lifestyle factors (e.g., Sleep Duration), and psychological metrics (e.g., Financial Stress). The target variable is a binary indicator, `Depression`, making this a supervised classification task. 
 
 ---
 
