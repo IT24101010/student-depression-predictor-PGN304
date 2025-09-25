@@ -69,4 +69,18 @@ Ensure you have Python installed with the following libraries:
 ### Instructions
 1.  **Place the Dataset:** Download the dataset from the Kaggle link above and place `Student Depression Dataset.csv`.
 2.  **Review Individual Work:** To see each member's specific contribution, EDA, and justifications, you can run the individual notebooks (`IT_Number_*.ipynb`) located in the `notebooks/` folder.
-3.  **Run the Integrated Pipeline:** To execute the entire preprocessing workflow from raw data to the final analysis-ready datasets, run the **`group_pipeline.ipynb`** notebook from top to bottom. This script demonstrates the seamless integration of each member's work. 
+3.  **Run the Integrated Pipeline:** To execute the entire preprocessing workflow from raw data to the final analysis-ready datasets, run the **`group_pipeline.ipynb`** notebook from top to bottom. This script demonstrates the seamless integration of each member's work.
+
+---
+
+## 6. Preprocessing Pipeline Summary
+
+The `group_pipeline.ipynb` demonstrates a logical flow of data preparation steps:
+
+1.  **Handle Missing Values:** Impute missing data using the median.
+2.  **Encode Categorical Variables:** Apply mapping, ordinal encoding, and target encoding based on feature characteristics.
+3.  **Train-Test Split:** Divide the data to prevent data leakage in subsequent steps.
+4.  **Remove Outliers:** Use the IQR method on the training data to remove extreme values.
+5.  **Scale Numerical Features:** Standardize features to have a mean of 0 and a standard deviation of 1.
+6.  **Select Features:** Use a Random Forest model to identify and keep the most important predictors.
+7.  **Apply PCA:** Reduce the dimensionality of the data to 2 components for visualization.
