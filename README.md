@@ -37,21 +37,8 @@ This project was a collaborative effort, with each member responsible for a spec
 
 ## 4. Repository Layout
 
-Group_ID/
-├── README.md
-├── data/
-│   └── raw/
-│       └── Student Depression Dataset.csv
-├── notebooks/
-│   ├── IT24101243_Missing_Values.ipynb
-│   ├── IT24100910_Encoding.ipynb
-│   ├── ... (individual notebooks for each member)
-│   └── group_pipeline.ipynb
-└── results/
-    ├── eda_visualizations/
-    │   └── (saved plots like heatmaps, boxplots, etc.)
-    └── outputs/
-        └── (final processed datasets)
+<img width="558" height="514" alt="image" src="https://github.com/user-attachments/assets/898d904a-3eed-48b1-b52c-f1edbe7618fe" />
+
 
 ---
 
