@@ -37,7 +37,7 @@ This project was a collaborative effort, with each member responsible for a spec
 
 ## 4. Repository Layout
 
-The project follows the specified submission structure:Group_ID/
+Group_ID/
 ├── README.md
 ├── data/
 │   └── raw/
@@ -48,10 +48,10 @@ The project follows the specified submission structure:Group_ID/
 │   ├── ... (individual notebooks for each member)
 │   └── group_pipeline.ipynb
 └── results/
-├── eda_visualizations/
-│   └── (saved plots like heatmaps, boxplots, etc.)
-└── outputs/
-└── (final processed datasets)
+    ├── eda_visualizations/
+    │   └── (saved plots like heatmaps, boxplots, etc.)
+    └── outputs/
+        └── (final processed datasets)
 
 ---
 
