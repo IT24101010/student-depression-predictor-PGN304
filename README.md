@@ -26,11 +26,11 @@ This project was a collaborative effort, with each member responsible for a spec
 
 | Member Name              | IT Number    | Assigned Role                      |
 | ------------------------ | ------------ | ---------------------------------- |
-| PUNCHIHEWA P.K.N         | IT24101243   | 1. Handling Missing Values         |
-| RANASINGHE.R.G.P.D       | IT24100910   | 2. Categorical Feature Encoding    |
-| CHANDRASEKARA RMS        | IT24101383   | 3. Outlier Removal                 |
-| DE SILVA THHD            | IT24101010   | 4. Feature Scaling (Standardization) |
-| GUNASEKARA J.D.C.        | IT24101409   | 5. Feature Selection               |
+| GUNASEKARA J.D.C         | IT24101409   | 1. Handling Missing Values         |
+| PUNCHIHEWA P.K.N         | IT24101243   | 2. Categorical Feature Encoding    |
+| RANASINGHE R.G.P.D       | IT24100910   | 3. Outlier Removal                 |
+| CHANDRASEKARA R M S      | IT24101383   | 4. Feature Scaling (Standardization) |
+| DE SILVA THHD            | IT24101010   | 5. Feature Selection               |
 | BHAGYA J.P.J.            | IT24101426   | 6. PCA (Dimensionality Reduction)  |
 
 ---
