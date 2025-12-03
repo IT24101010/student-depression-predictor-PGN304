@@ -1,6 +1,3 @@
-Here is the comprehensive `README.md` file, combining your project context, file structure, and machine learning results into a single professional document.
-
-````markdown
 # IT2011 - AI/ML Project: Predicting Depression Risk in University Students
 
 **Group ID:** PGN-304  
@@ -87,7 +84,6 @@ The project is organized into modular folders for raw data, individual contribut
 └── results/
     ├── Group_Model_Comparison.ipynb             # Final Benchmarking & Conclusion
     └── download (2).png                         # Performance Visualizations
-````
 
 -----
 
