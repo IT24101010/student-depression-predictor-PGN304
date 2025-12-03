@@ -1,7 +1,7 @@
 # IT2011 - AI/ML Project: Predicting Depression Risk in University Students
 
 **Group ID:** PGN-304  
-**Date:** December 2025
+**Date:** Octomber 2025
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
